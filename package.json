@@ -2,7 +2,7 @@
   "name": "pagination",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://tamilselvan-a.github.io/Pagination",
+  "homepage": "https://tamilselvan-a.github.io/Pagination/",
   "type": "module",
   "scripts": {
     "dev": "vite",
